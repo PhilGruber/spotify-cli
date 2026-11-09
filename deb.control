@@ -1,0 +1,6 @@
+Package: spotify-cli
+Version: __version__
+Maintainer: Phil Gruber <phil@gruber.au>
+Architecture: __arch__
+Depends: adduser, lsb-base
+Description: A non-interactive spotify client for the command line
